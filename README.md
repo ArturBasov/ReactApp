@@ -8,7 +8,7 @@ To run the application: npm start
 
 The application to be run on http://localhost:3000.
 
-In communicates with the backend that should be run on http://localhost:8080.
+It communicates with the backend that should be run on http://localhost:8080.
 
 The application has the following functionality:
 - Loads all available employees on initial page render.
